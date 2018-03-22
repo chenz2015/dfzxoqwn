@@ -1,0 +1,27 @@
+FrameLayout
+  gravity
+
+LinearLayout
+  把它的view按一列或一行排列
+  layout_weight,默认为0
+  paddingxxx
+->TableLayout
+    子view宽度都是match_parent 高度默认wrap_content
+    TableRow 或其他view
+    TableRow的子view有 layout_column
+
+GridLayout
+RelativeLayout
+AbsoluteLayout
+
+
+
+ConstraintLayout
+--------------
+
+
+
+--------------
+Layout过程
+  https://developer.android.com/reference/android/view/View.html
+
